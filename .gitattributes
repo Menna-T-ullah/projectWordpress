@@ -1,2 +1,0 @@
-localhost-test-20230128-161203-8iv5qs.wpress filter=lfs diff=lfs merge=lfs -text
-*.wpress filter=lfs diff=lfs merge=lfs -text
