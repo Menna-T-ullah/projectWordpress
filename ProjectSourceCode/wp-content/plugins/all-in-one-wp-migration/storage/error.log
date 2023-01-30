@@ -1,0 +1,747 @@
+Jan 28 2023 16:12:03
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:06
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:06
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:10
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:11
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":171}
+
+Jan 28 2023 16:12:11
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:15
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:15
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:20
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:25
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:26
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:35
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:12:39
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:44
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:45
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:48
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:50
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:53
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:55
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:58
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:12:59
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:03
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:10
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:18
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:21
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:23
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:30
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:34
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:13:40
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:45
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:46
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:49
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:53
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:57
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:13:58
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:02
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:07
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:11
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:16
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:20
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:20
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:24
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:31
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:34
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:39
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:45
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:14:46
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:50
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:55
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:56
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:14:59
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:03
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:08
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:08
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:18
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:19
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:22
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:27
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:30
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:33
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:15:39
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:42
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:43
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:48
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:52
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:54
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:15:57
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:01
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:06
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:06
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:11
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:16
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:18
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:21
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:27
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:32
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:36
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:41
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:42
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:16:45
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:49
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:54
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:54
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:16:59
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:04
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:06
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:08
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:17
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:17
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:21
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:26
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:32
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:17:38
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:42
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:17:43
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:47
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:52
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:54
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:17:56
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:00
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:05
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:05
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:14
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:17
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:18
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:23
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:28
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:36
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:41
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:18:42
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:46
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:51
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:53
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:18:55
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:00
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:04
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:05
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:08
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:16
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:17
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:22
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:27
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:31
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:36
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:41
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:41
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:19:45
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:50
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:53
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:54
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:19:59
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:04
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:04
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:08
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:14
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:18
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:22
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:26
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:27
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:20:39
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:41
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:46
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:50
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:51
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:20:55
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:00
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:02
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:05
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:10
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:14
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:14
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:19
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:23
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:25
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:28
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:34
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:21:37
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:40
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:45
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:49
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:49
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:54
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:21:59
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:01
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:03
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:15
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:19
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:24
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:25
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:28
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:35
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:22:36
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:40
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:44
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:48
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:50
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:53
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:22:58
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:02
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:03
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:07
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:12
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:13
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:16
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:21
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:25
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:25
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:31
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:23:36
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:36
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:41
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:45
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:47
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:50
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:55
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:59
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:23:59
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:04
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:11
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:14
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:19
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:22
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:23
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:33
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:24:41
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:46
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:46
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:51
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:55
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:24:57
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:00
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:05
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:09
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:14
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:14
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:19
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:24
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:26
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:29
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:31
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:35
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:25:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Jan 28 2023 16:25:38
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:40
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
+Jan 28 2023 16:25:40
+{"type":8192,"message":"Optional parameter $depth declared before required parameter $output is implicitly treated as a required parameter","file":"F:\\CS\\XAMPP\\htdocs\\test\\wp-content\\plugins\\mega_main_menu\\extensions\\mega_main_menu\\frontend_walker.php","line":512}
+
